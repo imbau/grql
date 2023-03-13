@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/dudtX8W8YDNfygz9QoR8yhZmU2FBc5hFsCPX2ag4wY=",
+  "Source": "dockernet",
+  "BasePath": "_content/dockernet",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

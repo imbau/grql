@@ -1,0 +1,15 @@
+C:\Users\guanchunhuang\Documents\NetCore\arrayset\bin\Debug\net6.0\arrayset.exe
+C:\Users\guanchunhuang\Documents\NetCore\arrayset\bin\Debug\net6.0\arrayset.deps.json
+C:\Users\guanchunhuang\Documents\NetCore\arrayset\bin\Debug\net6.0\arrayset.runtimeconfig.json
+C:\Users\guanchunhuang\Documents\NetCore\arrayset\bin\Debug\net6.0\arrayset.dll
+C:\Users\guanchunhuang\Documents\NetCore\arrayset\bin\Debug\net6.0\arrayset.pdb
+C:\Users\guanchunhuang\Documents\NetCore\arrayset\obj\Debug\net6.0\arrayset.csproj.AssemblyReference.cache
+C:\Users\guanchunhuang\Documents\NetCore\arrayset\obj\Debug\net6.0\arrayset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guanchunhuang\Documents\NetCore\arrayset\obj\Debug\net6.0\arrayset.AssemblyInfoInputs.cache
+C:\Users\guanchunhuang\Documents\NetCore\arrayset\obj\Debug\net6.0\arrayset.AssemblyInfo.cs
+C:\Users\guanchunhuang\Documents\NetCore\arrayset\obj\Debug\net6.0\arrayset.csproj.CoreCompileInputs.cache
+C:\Users\guanchunhuang\Documents\NetCore\arrayset\obj\Debug\net6.0\arrayset.dll
+C:\Users\guanchunhuang\Documents\NetCore\arrayset\obj\Debug\net6.0\refint\arrayset.dll
+C:\Users\guanchunhuang\Documents\NetCore\arrayset\obj\Debug\net6.0\arrayset.pdb
+C:\Users\guanchunhuang\Documents\NetCore\arrayset\obj\Debug\net6.0\arrayset.genruntimeconfig.cache
+C:\Users\guanchunhuang\Documents\NetCore\arrayset\obj\Debug\net6.0\ref\arrayset.dll

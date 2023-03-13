@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4jybhzF5rQG7Ifah3LqnoMEfWVu1rWI9rr7fSv+qmPL0P+BKx/n5AI9NUFLNjI0VEfL+DGkEcBgAO7dzHmu5Yg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guanchunhuang\\Documents\\NetCore\\GraphQLNET\\GraphQLNET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guanchunhuang\\.nuget\\packages\\graphql\\7.3.0\\graphql.7.3.0.nupkg.sha512",
+    "C:\\Users\\guanchunhuang\\.nuget\\packages\\graphql-parser\\8.1.0\\graphql-parser.8.1.0.nupkg.sha512",
+    "C:\\Users\\guanchunhuang\\.nuget\\packages\\graphql.systemtextjson\\7.3.0\\graphql.systemtextjson.7.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

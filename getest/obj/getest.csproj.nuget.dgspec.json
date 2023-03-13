@@ -1,0 +1,96 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\guanchunhuang\\Documents\\NetCore\\getest\\getest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\guanchunhuang\\Documents\\NetCore\\getest\\getest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\guanchunhuang\\Documents\\NetCore\\getest\\getest.csproj",
+        "projectName": "getest",
+        "projectPath": "C:\\Users\\guanchunhuang\\Documents\\NetCore\\getest\\getest.csproj",
+        "packagesPath": "C:\\Users\\guanchunhuang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\guanchunhuang\\Documents\\NetCore\\getest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\guanchunhuang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "HotChocolate.Abstractions": {
+              "target": "Package",
+              "version": "[13.0.5, )"
+            },
+            "HotChocolate.AspNetCore": {
+              "target": "Package",
+              "version": "[13.0.5, )"
+            },
+            "HotChocolate.Data": {
+              "target": "Package",
+              "version": "[13.0.5, )"
+            },
+            "HotChocolate.Data.MongoDb": {
+              "target": "Package",
+              "version": "[13.0.5, )"
+            },
+            "HotChocolate.Types": {
+              "target": "Package",
+              "version": "[13.0.5, )"
+            },
+            "HotChocolate.Types.MongoDb": {
+              "target": "Package",
+              "version": "[13.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
